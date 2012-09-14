@@ -26,7 +26,7 @@
 ;to creating even more bugs.
 
 extrn putdec:near, getdec:near
-TITLE  INTERNAL EXAMPLE
+TITLE  BULLET 
   .MODEL SMALL 
   .STACK 100H
   .DATA
