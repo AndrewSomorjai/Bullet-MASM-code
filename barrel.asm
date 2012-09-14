@@ -20,9 +20,9 @@
 
 ;Program description
 ;A simple assembly language program which is a game called "Bullet".
-;Use MASM to compile and link. Its got bugs and the collision
+;Use MASM to compile and link. It has bugs and the collision
 ;detection doesn't work. It might help someone as
-;a reference for various low level functions and thats about it
+;a reference for various low level functions and thats about it;
 ;changing anything in it is really time consuming and prone
 ;to creating even more bugs.
 
