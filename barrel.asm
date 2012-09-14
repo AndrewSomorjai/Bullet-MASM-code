@@ -17,7 +17,6 @@
 ;CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE 
 ;OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-
 ;Program description
 ;A simple assembly language program which is a game called "Bullet".
 ;Use MASM to compile and link. It has bugs and the collision
