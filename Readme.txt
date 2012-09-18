@@ -6,5 +6,8 @@ I will never update this and this is the end of the repo.
 Instructions to play:
 
 Use the mouse to move the "gun" and use the left button to fire a "bullet". 
-The collision detection is not functional though. Can't remember why since I
-haven't really looked at this since 2005. 
+Press ESC to end. The game might crash after a few minutes, don't know why 
+though.
+
+The collision detection is not functional, can't remember why since I
+last looked at this program in 2005. 
