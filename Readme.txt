@@ -9,5 +9,4 @@ Use the mouse to move the "gun" and use the left button to fire a "bullet".
 Press ESC to end. The game might crash after a few minutes, don't know why 
 though.
 
-The collision detection is not functional, can't remember why since I
-last looked at this program in 2005. 
+The collision detection is not functional.
