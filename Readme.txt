@@ -1,5 +1,15 @@
+Compiles fine on Xubuntu 16.04 with dosbox and wine installed. 
+You need to find 16-bit MASM to compile. 
 
+Compiles with command:
 
+  MASM barrel.asm
+
+Links with:
+  
+  LINK barrel.obj
+  
+Use Wine to run and Dosbox should takeover from there.
 
 Instructions to play:
 
