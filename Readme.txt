@@ -1,4 +1,4 @@
-Compiles fine on Xubuntu 16.04 with dosbox and wine installed.You need to 
+Compiles fine on Xubuntu 16.04 with dosbox and wine installed. You need to 
 find a DOS based 16-bit MASM to compile (this is why NASM is better for this 
 here -> github.com/AndrewSomorjai/Bullet-NASM-code). 
 
